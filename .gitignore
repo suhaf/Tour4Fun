@@ -1,0 +1,5 @@
+node_modules
+password.txt
+test.js
+config.env
+.vscode
